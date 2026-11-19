@@ -26,7 +26,7 @@
 - Purchase history (with repayment status), balances, chore assignments, and supplies.
 
 ## How to Run
-1. Open `Pair_programming_Project_Roomies.ipynb` in Google Colab (File › Upload notebook).
+1. Open `Roomies.ipynb` in Google Colab (File › Upload notebook).
 2. Run the code cells from top to bottom. Blocks 1–3 print nothing; they only define the classes and helper functions.
 3. Block 4 sets up the household. Block 5 opens the menu. Type a number to choose an option, and 11 to quit.
 4. To start over with a fresh household, rerun Block 4.
